@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OldSchool RuneScape 
+GenericName=Oldschool RuneScape
+Comment=Play OldSchool RuneScape
+Icon=SCRIPTDIR/jagexappletviewer.png
+Terminal=false
+Exec=SCRIPTDIR/launch-client.sh
+Categories=GNOME;GTK;Game;
+NoDisplay=false
+
